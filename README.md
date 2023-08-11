@@ -4,18 +4,18 @@
 <p> We need to analyze key indicators for our pizza sales data to gain some insights into our business and to increase our revenues...!</p>
 <p>So to do this we need to:</p>
 <h2> Columns : </h2>
-- pizza_id: id of each customer who buys pizza  
-- order_id: id of each order 
-- pizza_name_id: id of the name pizza 
-- Quantity: Have the quantity of pizza sold for each customer
-- order_date: the date of each order 
-- over_time: the time when orders are requested
-- unit_price: the price of one pizza 
-- total_price:  the price of order
-- pizza_size: have different sizes of pizza 
-- pizza_category: There are different categories of pizza 
-- piza_gradients: the gradients of order
-- pizza_name: the name of the pizza of order
+<p>- pizza_id: id of each customer who buys pizza  </p>
+<p>- order_id: id of each order </p>
+<p>- pizza_name_id: id of the name pizza </p>
+<p>- Quantity: Have the quantity of pizza sold for each customer</p>
+<p>- order_date: the date of each order </p>
+<p>- over_time: the time when orders are requested</p>
+<p>- unit_price: the price of one pizza </p>
+<p>- total_price:  the price of order</p>
+<p>- pizza_size: have different sizes of pizza </p>
+<p>- pizza_category: There are different categories of pizza </p>
+<p>- piza_gradients: the gradients of order</p>
+<p>- pizza_name: the name of the pizza of order</p>
 <h4>Materics</h4>
 <p>
 <p>1- Total revenue : </p>
