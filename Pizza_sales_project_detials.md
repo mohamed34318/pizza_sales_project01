@@ -1,5 +1,5 @@
 # pizza_sales_project01
-<h1>A new project called Pizza Sales </h1>
+<h2>A new project called Pizza Sales </h2>
 <h3>problem statement</h3>
 <p> We need to analyze key indicators for our pizza sales data to gain some insights into our business and to increase our revenues...!</p>
 <p>So to do this we need to:</p>
